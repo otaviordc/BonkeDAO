@@ -1,0 +1,47 @@
+.aboutus_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+    text-align: justify;
+    position: relative;
+    
+  }
+  
+  .aboutus_container h1 {
+    color: #fff;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    position: relative;
+  }
+  
+  .aboutus_container h1 span {
+    color: #4100f3;
+    padding: 0 0.2em;
+    background-color: #222;
+  }
+  
+  .aboutus_container p {
+    margin-bottom: 1.5em;
+    color: rgb(231,219,198);
+    position: relative;
+    
+  }
+  
+  .aboutus_container img {
+    width: 350px;
+    margin: 2em 0;
+  }
+  .aboutus_container {
+  position: relative;}
+
+  .back {
+    width: 1900px;
+    
+    opacity: 30%;
+    
+     
+     position: absolute;
+  }

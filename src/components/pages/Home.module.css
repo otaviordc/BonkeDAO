@@ -1,0 +1,67 @@
+.home_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4em;
+  position: relative;
+}
+.back {
+  height: 700px;
+  width: 970px;
+  margin-left: -1000px; 
+  
+   
+   position: absolute;
+}
+
+.home_container h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  color: #fff;
+}
+
+.home_container h1 span {
+  color: #4100f3;
+  padding: 0 0.2em;
+  background-color: #222;
+}
+
+.home_container p {
+  margin-bottom: 1.5em;
+  color: rgb(231,219,198);
+  
+}
+
+.home_container img {
+  width: 350px;
+  margin: 0em 0;
+  
+}
+
+
+@keyframes sLideInUp {
+  from{ 
+    transform:translateY(0px);
+
+  }
+  to {
+    transform:translateY(-15px);
+  }
+
+
+  }
+
+  .animation {
+    animation-name: sLideInUp;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in;
+   
+    animation-direction: normal;
+
+
+    animation-fill-mode: reverse;
+    transform: translateY(-15px);
+  }

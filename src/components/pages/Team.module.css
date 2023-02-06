@@ -1,0 +1,36 @@
+.team_container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:3em;
+    text-align: justify;
+    position: relative;
+  }
+  
+  .team_container h1 {
+    color: #fff;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+    
+  }
+  
+  .team_container h1 span {
+    color: #4100f3;
+    padding: 0 0.2em;
+    background-color: #222;
+    
+  }
+  
+  .team_container p {
+    margin-bottom: 1.5em;
+    color: rgb(231,219,198);
+    
+  }
+  
+  .team_container img {
+    width: 700px;
+    margin: 2em 0;
+    
+  }

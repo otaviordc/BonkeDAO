@@ -1,0 +1,114 @@
+
+
+  .profile_container {
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+    
+    
+  }
+  
+  .card {
+    box-shadow: 1px 1px 10px 1px #a1a1a1;
+    border-radius: 10px;
+    padding: 20px;
+    color: rgb(240, 237, 231);
+    justify-content: left;
+    align-items: left;
+    
+    
+     
+    
+  }
+  
+  .main_profile {
+    display: flex;
+    justify-content: aspace-between;
+    margin-bottom: 20px;
+    
+    
+    
+    
+  }
+  
+  .user_info img {
+    display:inline-block;
+    width: 100px;
+    border-radius: 50%;
+    
+    
+  }
+  
+  .user_info h3 {
+    font-size: 1.3rem;
+    
+    
+  }
+  
+  .user_info p {
+    display:inline-block;
+    color: #2388e0;
+    
+    
+  }
+ 
+
+  
+  .follow_btn button {
+    display:inline-block;
+    font-size: 0.9rem;
+    border: 3px solid #1da1f2;
+    border-radius: 25px;
+    background-color: rgba(17, 132, 204, 0);
+    padding: 8px 20px;
+    margin: 5px;
+    margin-left: 30px;
+    
+    
+    font-weight: bold;
+    color: #1da1f2;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .follow_btn button:hover {
+    background-color: rgba(29, 161, 242, 0.2);
+    
+  }
+  
+  .user_bio {
+    color: #0f1419;
+    margin-bottom: 10px;
+    
+  }
+  
+  .user_bio a {
+    color: #1da1f2;
+    text-decoration: none;
+    
+  }
+  
+  .user_bio a:hover {
+    text-decoration: underline;
+    
+  }
+  
+  .user_follows {
+    display: flex;
+    color: #5b7083;
+    
+  }
+  
+  .user_follows div {
+    margin-right: 10px;
+    
+  }
+  
+  .user_follows b {
+    color: black;
+    
+  }
