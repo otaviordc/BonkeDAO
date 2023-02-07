@@ -4,6 +4,11 @@ import "./index.css";
 import App from "./App";
 
 
+  <title>Ola</title>
+  
+
+
+
 
 ReactDOM.render(
   <React.StrictMode>

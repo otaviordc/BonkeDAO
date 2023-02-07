@@ -1,7 +1,7 @@
 
 
   .profile_container {
-    height: 35vh;
+    height: 37vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,6 +20,8 @@
     align-items: left;
     
     
+    
+    
      
     
   }
@@ -28,6 +30,7 @@
     display: flex;
     justify-content: aspace-between;
     margin-bottom: 20px;
+    
     
     
     
@@ -46,11 +49,13 @@
     font-size: 1.3rem;
     
     
+    
   }
   
   .user_info p {
     display:inline-block;
     color: #2388e0;
+    
     
     
   }
@@ -81,19 +86,29 @@
   }
   
   .user_bio {
-    color: #0f1419;
+    color: rgb(240, 237, 231);
     margin-bottom: 10px;
     
+    
+    
   }
-  
+  .user_bio p {
+   margin-top: 1px;
+   line-height: 130%;
+    
+    
+    
+  }
   .user_bio a {
     color: #1da1f2;
     text-decoration: none;
+    
     
   }
   
   .user_bio a:hover {
     text-decoration: underline;
+    
     
   }
   
@@ -101,10 +116,12 @@
     display: flex;
     color: #5b7083;
     
+    
   }
   
   .user_follows div {
     margin-right: 10px;
+    
     
   }
   

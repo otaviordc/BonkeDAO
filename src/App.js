@@ -6,7 +6,6 @@ import Home from './components/pages/Home'
 import Team from './components/pages/Team'
 import Aboutus from './components/pages/Aboutus'
 import Collection from './components/pages/Collection'
-
 import "./app.css";
 
 

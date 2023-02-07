@@ -20,18 +20,18 @@ function Profile() {
             </div>
 
           </div>
-          <div className={styles.ser_bio}>
+          <div className={styles.user_bio}>
             <p>
             3D architectural artist
               <br />
-              @ReptilianRenegg
+              ReptilianRenegg
 
               <br />
               Council member
               
 
               <br />
-              @Robinhood_DAO
+              Robinhood_DAO
               <br />
               Council member
               <br />

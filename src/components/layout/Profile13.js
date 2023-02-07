@@ -21,7 +21,7 @@ https://twitter.com/StackingSol" >
             </div>
 
           </div>
-          <div className={styles.ser_bio}>
+          <div className={styles.user_bio}>
             <p>
             SBB council
               <br />

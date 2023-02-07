@@ -7,11 +7,11 @@ import logo from "../../img/costs_logo.png";
 function Navbar() {
   return (
     <div className={styles.navbar}>
+      
+     
       <Container>
-        
-        <Link to="https://discord.gg/bonkedao" >
-          <img src={logo} alt="Costs" />
-        </Link>
+      
+       
         <ul className={styles.list}>
           <li className={styles.item}>
             <Link to="/">Home</Link>
@@ -27,7 +27,7 @@ function Navbar() {
           </li>
         </ul>
       </Container>
-    </div>
+      </div>
   );
 }
 

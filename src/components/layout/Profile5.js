@@ -20,19 +20,19 @@ function Profile() {
             </div>
 
           </div>
-          <div className={styles.ser_bio}>
+          <div className={styles.user_bio}>
             <p>
             
-@HydraLaunchpad
+HydraLaunchpad
  GM
               <br />
-              @reptilianrenegg
+              reptilianrenegg
  De-Rugger
               <br />
-              @elysium_arts
+              elysium_arts
  Director 
               <br />
-              @banditoDAO
+              banditoDAO
  War Criminal
               <br />
               

@@ -12,7 +12,7 @@ function Collection() {
       <h1>The Collection</h1>
       <p>Solana Bonk Business was built for the culture by the culture, a 30 day social experiment with an incredible pixelated doge PFP. After the 30 day period expires 
         Bonke DAO will takeover and continue to build the Bonk culture. A total supply of 5000 NFT minted with $BONK token.</p>
-        <img src={quadro} alt="quadro" />
+        <img src={quadro} alt="quadro"  />
     </section>
   );
 }

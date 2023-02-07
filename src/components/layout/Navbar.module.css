@@ -1,23 +1,33 @@
 .navbar {
   display: flex;
-  justify-content: space-between;
+  
   background-color: rgb(39,42,44);
-  padding: 1em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+ 
+  
 }
 
 .list {
+ 
   display: flex;
   list-style: none;
-  align-items: center;
+  margin-left: 32vh;
+  font-size: 21px;
+  
+ 
 }
 
 .item {
-  margin-right: 1em;
+  margin-right: 5em;
+  
 }
 
 .item a {
   color: #fff;
   text-decoration: none;
+  
 }
 
 .item a:hover {
